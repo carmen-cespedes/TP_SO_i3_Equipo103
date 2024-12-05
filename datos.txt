@@ -1,1 +1,5 @@
-"Nombre: Americo Nicolas Acosta, IP: 192.168.56.1, Hora: 21:16" 
+
+Nombre: Americo Nicolas Acosta, IP: 192.168.56.1, Hora: 21:16
+
+
+Nombre: Schmidt Tobias, IP: 25.55.130.22, Hora: 21:23
