@@ -1,5 +1,6 @@
 Nombre: Carmen Cespedes
 Nombre: Americo Nicolas Acosta
+Nombre: Schmidt Tobias
 
 lo0: flags=8049<UP,LOOPBACK,RUNNING,MULTICAST> mtu 16384
 	options=1203<RXCSUM,TXCSUM,TXSTATUS,SW_TIMESTAMP>
@@ -166,3 +167,46 @@ Adaptador de Ethernet Conexión de red Bluetooth:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS específico para la conexión. . :
+
+Hora: 23:18
+--------------------------------------------------------------------------------
+
+ipconfig de ALFA
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Hamachi:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2620:9b::1937:8216
+   Vínculo: dirección IPv6 local. . . : fe80::d081:592c:79eb:693%14
+   Dirección IPv4. . . . . . . . . . . . . . : 25.55.130.22
+   Máscara de subred . . . . . . . . . . . . : 255.0.0.0
+   Puerta de enlace predeterminada . . . . . : 2620:9b::1900:1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::5230:aa10:9516:f22e%18
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::9683:29e3:895d:fb53%4
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.2.105
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.2.1
+
+Adaptador de Ethernet vEthernet (Default Switch):
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::8fe6:2ae7:56ef:dd7e%27
+   Dirección IPv4. . . . . . . . . . . . . . : 172.27.224.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . :
+
+Hora: 23:21
