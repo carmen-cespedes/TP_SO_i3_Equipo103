@@ -17,3 +17,62 @@ a-¿Cómo queda el máster después de estos cambios?
 
 - git push origin main
 
+D-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+
+Las ramas de BETA y GAMMA quedaron con los datos proporcionados en el momento pedido, no se actualizaron con el merge.
+
+E-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+
+Cuando ejecutamos el merge, surgio un conflicto con un archivo (datos.txt) el cual era diferente en cada rama, tuvimos que corroborar los cambios y optar por reemplazar los cambios proporcionados por la rama acosta
+
+
+F-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+
+1) echo "----------------------------------
+
+ipconfig de GAMMA
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . : telecom.arg.telecom.com.ar
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.23
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet Conexión de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Hora: 23:18" >> beta.txt
+
+
+2) git add beta.txt
+3) git commit -m "--------"
+4) git push origin main
